@@ -1,0 +1,8 @@
+
+Unexpected state format: (0, {'prob': 1})
+Unexpected state format: 0
+(4, 0.0, False, False, {'prob': 1.0})
+state: (0, {'prob': 1}), type: <class 'tuple'>
+action: 1, type: <class 'int'>
+next_state: 4, type: <class 'int'>
+WARNING:tensorflow:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.

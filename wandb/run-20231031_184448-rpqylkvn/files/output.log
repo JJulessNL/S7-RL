@@ -1,0 +1,17 @@
+
+(0, 0.0, False, False, {'prob': 1.0})
+Num GPUs Available:  1
+TensorFlow version:  2.10.1
+Model: "model_1"
+_________________________________________________________________
+ Layer (type)                Output Shape              Param #
+=================================================================
+ input_2 (InputLayer)        [(None, 64)]              0
+ dense_3 (Dense)             (None, 32)                2080
+ dense_4 (Dense)             (None, 24)                792
+ dense_5 (Dense)             (None, 4)                 100
+=================================================================
+Total params: 2,972
+Trainable params: 2,972
+Non-trainable params: 0
+_________________________________________________________________

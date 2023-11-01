@@ -1,0 +1,17 @@
+
+Total reward: 0.0
+Total reward: 1.0
+TensorFlow version:  2.10.1
+Model: "model"
+_________________________________________________________________
+ Layer (type)                Output Shape              Param #
+=================================================================
+ input_1 (InputLayer)        [(None, 64)]              0
+ dense_4 (Dense)             (None, 24)                1560
+ dense_5 (Dense)             (None, 24)                600
+ dense_6 (Dense)             (None, 4)                 100
+=================================================================
+Total params: 2,260
+Trainable params: 2,260
+Non-trainable params: 0
+_________________________________________________________________

@@ -1,0 +1,46 @@
+{
+    "os": "Windows-10-10.0.22000-SP0",
+    "python": "3.9.15",
+    "heartbeatAt": "2023-10-31T11:47:33.702703",
+    "startedAt": "2023-10-31T11:47:28.240102",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "<python with no main file>",
+    "codePathLocal": null,
+    "host": "PC-Jules",
+    "username": "jules",
+    "executable": "c:\\Users\\jules\\anaconda3\\python.exe",
+    "cpu_count": 12,
+    "cpu_count_logical": 24,
+    "cpu_freq": {
+        "current": 3701.0,
+        "min": 0.0,
+        "max": 3701.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 3701.0,
+            "min": 0.0,
+            "max": 3701.0
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 930.378547668457,
+            "used": 910.3905906677246
+        }
+    },
+    "gpu": "NVIDIA GeForce RTX 3080",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA GeForce RTX 3080",
+            "memory_total": 10737418240
+        }
+    ],
+    "memory": {
+        "total": 63.943359375
+    }
+}

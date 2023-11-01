@@ -1,0 +1,14 @@
+TensorFlow version:  2.10.1
+Model: "model_1"
+_________________________________________________________________
+ Layer (type)                Output Shape              Param #
+=================================================================
+ input_2 (InputLayer)        [(None, 64)]              0
+ dense_7 (Dense)             (None, 24)                1560
+ dense_8 (Dense)             (None, 24)                600
+ dense_9 (Dense)             (None, 4)                 100
+=================================================================
+Total params: 2,260
+Trainable params: 2,260
+Non-trainable params: 0
+_________________________________________________________________

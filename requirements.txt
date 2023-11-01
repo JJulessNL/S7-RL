@@ -1,1 +1,6 @@
 gym-tetris
+ray[rllib]
+ray[tune]
+tensorflow
+wandb
+ipywidgets

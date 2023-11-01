@@ -1,0 +1,52 @@
+{
+    "os": "Windows-10-10.0.22000-SP0",
+    "python": "3.8.10",
+    "heartbeatAt": "2023-10-31T10:28:59.389223",
+    "startedAt": "2023-10-31T10:28:52.137004",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "<python with no main file>",
+    "codePathLocal": null,
+    "git": {
+        "remote": "https://github.com/JJulessNL/S7-RL.git",
+        "commit": "28fa0412f56c210de5c1ff535bc837c869bf80b0"
+    },
+    "email": "73841047+JJulessNL@users.noreply.github.com",
+    "root": "C:/Users/jules/git/S7-RL",
+    "host": "PC-Jules",
+    "username": "jules",
+    "executable": "c:\\Users\\jules\\git\\S7-RL\\.venv\\Scripts\\python.exe",
+    "cpu_count": 12,
+    "cpu_count_logical": 24,
+    "cpu_freq": {
+        "current": 3701.0,
+        "min": 0.0,
+        "max": 3701.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 3701.0,
+            "min": 0.0,
+            "max": 3701.0
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 930.378547668457,
+            "used": 910.3431358337402
+        }
+    },
+    "gpu": "NVIDIA GeForce RTX 3080",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA GeForce RTX 3080",
+            "memory_total": 10737418240
+        }
+    ],
+    "memory": {
+        "total": 63.943359375
+    }
+}

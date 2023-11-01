@@ -1,0 +1,3 @@
+c:\Users\jules\anaconda3\lib\site-packages\gymnasium\envs\toy_text\frozen_lake.py:273: UserWarning: [33mWARN: You are calling render method without specifying any render mode. You can specify the render_mode at initialization, e.g. gym("FrozenLake-v1", render_mode="rgb_array")
+  gym.logger.warn(
+WARNING:tensorflow:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
